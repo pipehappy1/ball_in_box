@@ -1,0 +1,6 @@
+name: ball_in_box
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.6
